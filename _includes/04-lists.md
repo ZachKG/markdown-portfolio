@@ -1,4 +1,4 @@
 * dogs
 * cuddles
-  * sex
-  * drugs
+  * coding
+  * hiking
